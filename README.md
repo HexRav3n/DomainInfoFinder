@@ -1,4 +1,5 @@
 # DomainInfoFinder
+## You are free to use DomainInfoFinder as long as original credit remains with myself
 Searches for public information sources for domain and ip information
 
 Requires VirusTotal API Key
