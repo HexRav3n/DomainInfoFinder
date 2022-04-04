@@ -13,6 +13,7 @@ API_KEY = ''
 
 vt = VirusTotalPublicApi(API_KEY)
 
+print('Hello ')
 
 def main():
     while True:
